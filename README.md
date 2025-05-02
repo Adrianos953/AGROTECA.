@@ -17,7 +17,7 @@
     </header>
 
     <section id="hero">
-        <h1>Empresa 100% a la mejora en desarollo sustentable de agricultura y ganaderi.<br>"El arte Destilado en la escencia del Agave"</h1>
+        <h1>Empresa 100% potosina dedicada a la mejora en el  desarollo sustentable de agricultura y ganaderia.<br>"Cultivamos soluciones, cosechamos progreso"</h1>
         <button>CONSULTA SIN COMPROMISO!</button>
     </section>
 
@@ -32,18 +32,18 @@
         </div>
     </section>
 
-    <section id="nuestros-programas">
+    <section id="Nuestros-programas">
         <div class="container">
             <h2>SERVICIOS</h2>
             <div class="programas">
                 <div class="carta">
-                    <h3>Distribuciion Y Comercializacion</h3>
-                    <p> Distribuir el tequila a nivel nacional e internacional, asegurando la presencia en puntos de venta estratégicos y estableciendo alianzas con distribuidores confiables.</p>
+                    <h3>servicios de consultoria y asesoria. (Basico)</h3>
+                    <p>Se trabaja en el diseño de proyectos estrategicos que incoporen tecnicas agroecologicas para maximizar el rendimiento sin comprometer el equilibrio ambiental..</p>
                     <button>+ Informacion</button>
                 </div>
                 <div class="carta">
-                    <h3>Catas Y Eventos</h3>
-                    <p> Organizar eventos y catas de tequila para promover y educar a los clientes sobre los diferentes tipos y sabores de tequila, así como ofrecer experiencias sensoriales únicas.</p>
+                    <h3>Gestion de recursos y Capacitacion.</h3>
+                    <p> escecniales para optimizar el uso de isnumos mejorar la productividad y garantizar la productividad y garantizar la sostenibilidad a largo plazo .</p>
                     <button>+ Informacion</button>
                 </div>
                 <div class="carta">
